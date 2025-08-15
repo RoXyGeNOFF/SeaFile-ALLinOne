@@ -4,7 +4,7 @@
 
 ## 🚀 Быстрый старт
 ```bash
-git clone https://github.com/USERNAME/seafile-local-install.git
+git clone https://github.com/RoXyGeNOFF/SeaFile-ALLinOne.git
 cd seafile-local-install
 cp .env.example .env
 nano .env   # впишите свои значения (LOCAL_IP, EMAIL, пароли)
